@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saishyam36" alt="saishyam36" /></a> </p>
 
-- 🔭 I’m currently working on **Automation Project with API's**
+- 🔭 I’m currently working on **ReactJs Project**
 
-- 🌱 I’m currently learning **Dockers**
+- 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **Backend Testing Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **how Java works in the backend with the OOPS!!!**
+- 💬 Ask me about **how to create web applications**
 
 - 📫 How to reach me **saishyamn36@gmail.com**
 
