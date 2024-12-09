@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **Backend Testing Projects**
-
 - 💬 Ask me about **how Java works in the backend with the OOPS!!!**
 
 - 📫 How to reach me **saishyamn36@gmail.com**
